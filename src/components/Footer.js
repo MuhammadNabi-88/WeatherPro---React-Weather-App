@@ -31,7 +31,7 @@ export default function Footer() {
           <h4>Let's Connect</h4>
           <p>Open to Full Stack Developer roles • React, Node.js & Modern Web Apps</p>
           <div className="social-row">
-            <a href="https://github.com/MuhammadNabi-88" target="_blank" rel="noreferrer">GitHub ↗</a>
+            <a href="https://web-app-entwickler.vercel.app" target="_blank" rel="noreferrer">GitHub ↗</a>
             <a href="#" target="_blank" rel="noreferrer">LinkedIn ↗</a>
             <a href="#">Email ↗</a>
           </div>
